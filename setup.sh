@@ -29,5 +29,4 @@ cd st
 make && sudo make install
 
 cd ../..
-cd ..
 cp -r * ~/
