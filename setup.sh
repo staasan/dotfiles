@@ -2,7 +2,7 @@ DWM=6.8
 ST=0.9.3
 DMENU=5.4
 
-cd suckless
+cd src
 wget https://dl.suckless.org/dwm/dwm-$DWM.tar.gz
 tar -xf dwm-$DWM.tar.gz --transform s/dwm-$DWM/dwm/
 rm dwm-$DWM.tar.gz
